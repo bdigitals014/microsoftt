@@ -1,0 +1,11 @@
+Username: me.bdigitals@gmail.com
+Password: 6ADE4826AB14CC7EE4D83611EA29518B50AD
+Server: smtp.elasticemail.com
+Port: 2525
+Your security token is 692b145e-a22f-4b7b-a7a1-6d423b4dfae8 Please take note of this.
+
+Username: me.bdigitals@outlook.com
+Password: 79F780936B292D90A08A821D1AB44D7A18EC
+Server: smtp.elasticemail.com
+Port: 2525
+Your security token is 9a10b246-ec7d-4ef3-85f6-95ef2141c30e Please take note of this.
